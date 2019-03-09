@@ -15,6 +15,7 @@ export const ERROR_CONTRACT_CREATION_COLLISION = 0x09;
 export const ERROR_MAX_CODE_SIZE_EXCEEDED = 0x0a;
 export const ERROR_ILLEGAL_WRITE_OPERATION = 0x0b;
 export const ERROR_PRECOMPILE_NOT_IMPLEMENTED = 0x0c;
+export const ERROR_OUT_OF_GAS = 0x0d;
 
 // Ethereum opcodes
 
